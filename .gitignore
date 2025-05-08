@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyc
+*.pdf
+
+.venv/
+venv/
+env/
+ENV/
+
+.idea/
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+chroma_db_beta_rag/
