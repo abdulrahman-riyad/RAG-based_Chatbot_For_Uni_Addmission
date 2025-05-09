@@ -78,8 +78,8 @@ The project is organized into several modules:
 *   `ui_components.py`: Streamlit UI elements and styling.
 *   `utils.py`: Utility functions (e.g., model validation).
 
-## Future Improvements (Optional To-Do)
+## Future Improvements
 
-*   [ ] Add support for more document types (e.g., .txt, .docx).strategies.
+*   [ ] Add support for more document types (e.g., .txt, .docx).
 *   [ ] Allow users to upload PDFs through the UI.
 *   [ ] Add conversation history management (saving/loading chats).
