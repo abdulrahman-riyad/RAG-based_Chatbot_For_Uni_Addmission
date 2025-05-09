@@ -1,5 +1,3 @@
-# app.py
-
 import streamlit as st
 import logging
 import os
@@ -27,7 +25,7 @@ apply_ui_styles()  # Apply CSS styles
 
 # --- Main Application Logic ---
 def main():
-    st.title("📖 Beta E-JUST RAG Chatbot (Modular)")
+    st.title("📖 Beta E-JUST RAG Chatbot")
 
     # Initial model and document validation
     models_validated = validate_model_available(MODEL_NAME) and \
