@@ -32,7 +32,7 @@ This project implements a Retrieval Augmented Generation (RAG) chatbot designed 
     cd RAG-based_Chatbot_For_Uni_Addmission
     ```
 
-2.  **Set up a Python virtual environment:**
+2.  **Set up a Python virtual environment (recommended):**
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
